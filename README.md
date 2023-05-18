@@ -4,8 +4,9 @@ Overview of methods for manipulating audio in Unity
 The presentation is available as a pdf in the repository. I presented a list of very simple Unity scenes, each representing one topic in the tutorial: 
 
 1. Basic audio functionalities:
-   ScaleOnVolume.cs - script to change the size of the object when modifying the volume
-   SinusMovement.cs - script to create a circular movement of an object
+
+   ScaleOnVolume.cs - script to change the size of the object when modifying the volume //
+   SinusMovement.cs - script to create a circular movement of an object //
    PitchOnMovement.cs - script to change pitch parameter depending on the movement
    
 2. OnAudioFilterRead()
