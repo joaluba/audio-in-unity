@@ -5,8 +5,8 @@ The presentation is available as a pdf in the repository. I presented a list of 
 
 1. Basic audio functionalities:
 
-   ScaleOnVolume.cs - script to change the size of the object when modifying the volume //
-   SinusMovement.cs - script to create a circular movement of an object //
+   ScaleOnVolume.cs - script to change the size of the object when modifying the volume /n
+   SinusMovement.cs - script to create a circular movement of an object /n
    PitchOnMovement.cs - script to change pitch parameter depending on the movement
    
 2. OnAudioFilterRead()
